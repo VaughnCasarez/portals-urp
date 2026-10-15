@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "portals-urp.sln"
+    "dotnet.defaultSolution": "portals-urp.slnx"
 }
